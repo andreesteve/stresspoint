@@ -1,0 +1,17 @@
+{
+  "name": "stresspoint",
+  "version": "1.0.0",
+  "description": "A utility to stress the Point application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "node-rsa": "^0.4.2",
+    "xml-reader": "^2.4.3",
+    "xmlbuilder": "^8.2.2"
+  }
+}
